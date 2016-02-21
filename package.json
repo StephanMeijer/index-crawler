@@ -1,0 +1,19 @@
+{
+  "name": "indexcrawler",
+  "version": "1.0.0",
+  "description": "Crawl some indices",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Stephan Meijer",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "optimist": "^0.6.1",
+    "request": "^2.69.0"
+  }
+}
